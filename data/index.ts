@@ -49,14 +49,14 @@ export const gridItems = [
   },
 ];
 
-export const projects = [
+export const projects = [         
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/adrianhajdin?tab=repositories",
+    title: "FeastFest: A Food Lover's Haven",
+    des: "I created FeastFest using React.js, styled with Tailwind CSS, and navigated with React Router. Explore diverse recipes and culinary features on my portfolio..",
+    img: "/FoodWebLogo.png",
+    iconLists: ["/re.svg", "/tail.svg", ],
+    link: "https://foodies-alpha.vercel.app/",
   },
   {
     id: 2,
