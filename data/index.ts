@@ -52,19 +52,19 @@ export const gridItems = [
 export const projects = [         
   {
     id: 1,
+    title: "Youtz: React YouTube Clone App ",
+    des: "Youtz is a YouTube clone built with React and Material-UI, featuring responsive design and video playback.",
+    img: "/YoutubeWebLogo.png",
+    iconLists: ["/re.svg", "/mui.svg"],
+    link: "https://youtz.vercel.app/",
+  },
+  {
+    id: 2,
     title: "FeastFest: A Food Lover's Haven",
     des: "I created FeastFest using React.js, styled with Tailwind CSS, and navigated with React Router. Explore diverse recipes and culinary features on my portfolio..",
     img: "/FoodWebLogo.png",
     iconLists: ["/re.svg", "/tail.svg", ],
     link: "https://foodies-alpha.vercel.app/",
-  },
-  {
-    id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/zoom-clone",
   },
   {
     id: 3,
