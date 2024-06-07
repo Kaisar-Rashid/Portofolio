@@ -26,7 +26,7 @@ const Hero = () => {
         <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
         Creating seamless, responsive websites with modern technologies
         </p>
-          <a href="https://www.figma.com/design/Cqwh0rTYmzxignCxvYmvtV/Untitled?node-id=1-18&t=k92aIbfqUcWyQhrK-1"><MagicButton title="Check Out My Resume" icon={<FaLocationArrow />} position="right" /></a>
+          <a href="https://drive.google.com/file/d/1bFywoaJkEf-Gt6UEz_kS5ZvhJJ3ckXFZ/view?usp=drivesdk"><MagicButton title="Check Out My Resume" icon={<FaLocationArrow />} position="right" /></a>
        </div>
       </div>
     </div>
