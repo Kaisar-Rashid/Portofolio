@@ -5,7 +5,7 @@ import { BentoGrid, BentoGridItem } from "./ui/BentoGrid";
 const Grid = () => {
   return (
     <section id="about">
-      <h1 className="heading mb-20">
+      <h1 className="heading mb-20 ">
          My 
         <span className="text-purple text-5xl"> Journey</span>
       </h1>
